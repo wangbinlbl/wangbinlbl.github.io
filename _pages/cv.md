@@ -45,6 +45,11 @@ Research Grants (Select)
 * **California's Deep Decarbonization Pathways: A Holistic Multi-Layer Assessment**, funded by UCOP, $390K (LBNL portion)
 * **Early Career Development LDRD Award**, funded by DOE/LBNL, $225K/year over 2 years
 * **Mitigating and Managing Extreme Wildfire Risk in California**, funded by UCOP, $500K for 3 years
+* **Artificial Intelligence Based Heavy-Duty Fleet Charging to Enable Distributed Energy Resource Integration**, funded by CEC, LBNL portion: $300K, LBNL PI
+* **Non-Road Decarbonization Potential Analysis**, LBNL PI, funded by DOE, $200K
+* **Electric Truck Research and Utilization Center (eTRUC)**, California’s premier Research Hub for
+Electric Technologies in Truck Applications (RHETTA), funded by CEC, LBNL portion: $320K
+* **HPC4Mobility**, phase II, funded by DOE, VTO, $300K for 1 year, PI
 
 Honors and Awards
 ======
@@ -55,6 +60,11 @@ Honors and Awards
 * **Distinguished Achievement Award**, US DOE Vehicle Technology Office, 2023
 * **Early Career Development Award**, LBNL, 2019
 * **Commencement Student Speaker Finalist**, UCLA Engineering School, 2017
+* **Student Support Program Grant** from 2016 IEEE T&D conference, Mar. 2016
+* **Student Travel Grant** from IEEE SmartGridComm’15 Symposium, Nov. 2015
+* **Cum Laude Award** at College of Automotive Engineering, Jilin University, Jul. 2012
+* **Jilin University Excellent Student Award**, 2010, 2011
+* **Jilin University First-Class Scholarship**, 2009, 2010, 2011
 
 Skills
 ======
